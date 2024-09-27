@@ -1,18 +1,3 @@
-# List Navigation
-* **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
-
 ### Vulkan
 > [!CAUTION]
 > **Visual Bugs & Crashes**
