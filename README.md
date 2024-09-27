@@ -1,70 +1,3 @@
-<h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
-</h3>
-
-<h1 align="center">#RBXFLAG$</h1>
-
-<h4 align="center">Exclusively Available by a third party</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
-
-> [!NOTE]
-> If you find our repository useful don't forget to star!
-
-<h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
-</h3>
-
-<h1 align="center">#RBXFLAG$</h1>
-
-<h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
-
-<h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
-
-<h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/luafv/rbxflags/discussions</h5>
-
-
-<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
-<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
-
-
-> [!CAUTION]
-> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
-
-#### Versioqn: `9.21.24` `WHO AM I LIVING FOR?`
-* **200 Currently Listed**
-* **Fix `V1`** **Fix `Blue Theme`** **`Old Chrome UI Topbar`** **`Left Healthbar for Chrome UI Topbar`** **`THICK Healthbar`** **`🍔`**
-* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
-
-## Bloxstrap How to Use:
-1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
-2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import `.**
-3. **Paste in the .**
-4. **Save and your good to go!**
-
-<img src="/assets/tutorial260.gif" width="750"/>
-
-## Normal Roblox Bootstrapper How to Use:
-###### You can also do Roblox Studio
-1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.**
-2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
-3. **Create a new folder named `ClientSettings`. Inside this folder, place the file `ClientAppSettings.`.**
-4. **Paste the  into `ClientAppSettings.`. (You can utilize ChatGPT to format multiple s for clarity if needed)**
-5. **Save and you're good to go!**
-###### Do note that after roblox updates you have to do this process again
-
-[Watch a Video Tutorial](https://streamable.com/rk5an6)
-
-## How to Use _PlaceFilter
-1. **Add `_PlaceFilter` after the Fast Flag name.**
-2. **Add a semicolon after the Value (`;`). Examples: `True;`, `1;`.**
-3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
-4. **Your configuration is complete!**
-
-###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
-
 # List Navigation
 * **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
 * **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
@@ -79,31 +12,6 @@
 * **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
 * **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
-
-<img src="assets/bitdancer.png" width="888"/>
-
-<div align="center">
-
-<b>
-I've been up, baby<br>
-Heavy reminiscin'<br>
-Heavy on the missing you<br>
-Wish it was different than what it was
-</b>
-
-</div>
-
-<h5 align="center">•</h5>
-
-<h1 align="center">Rendering API</h1>
-
-### Metal
-> [!IMPORTANT]
-> **MacOS Only**
-
-{
-    "FFlagDebugGraphicsPreferMetal": "True"
-}
 
 ### Vulkan
 > [!CAUTION]
