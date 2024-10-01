@@ -1643,3 +1643,11 @@ High
     "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "False"
 }
 ```
+
+### Hitbox Expander
+```json
+{
+"FIntUGCValidationLeftArmThresholdBack" : 23, "FIntUGCValidationLeftArmThresholdFront" : 27,
+"FIntUGCValidationLeftArmThresholdSide": 40, "FIntUGCValidationLeftLegThresholdBack" : 40, "FIntUGCValidationLeftLegThresholdFront" : 40, "FIntUGCValidationLeftLegThresholdSide" : 36, "FIntUGCValidationRightArmThresholdBack" : 23, "FIntUGCValidationRightArmThresholdFront" : 25, "FIntUGCValidationRightArmThresholdSide" : 40, "FIntUGCValidationRightLegThresholdBack" : 40, "FIntUGCValidationRightLegThresholdFront" : 40, "FIntUGCValidationRightLegThresholdSide" : 38, "FIntUGCValidationTorsoThresholdBack" : 100, "FIntUGCValidationTorsoThresholdFront" : 100, "FIntUGCValidationTorsoThresholdSide" : 100
+}
+```
