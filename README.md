@@ -1,5 +1,3 @@
-<div align="center">
-
 `10.24.24`
 
 <h3 align="center">View Here</h3>
